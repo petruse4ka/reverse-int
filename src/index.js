@@ -1,4 +1,4 @@
-nmodule.exports = function reverse (n) {
+module.exports = function reverse (n) {
   let rev = ''; 
   let def = String(n)   
   if (n > 0) {
